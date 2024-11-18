@@ -1,3 +1,0 @@
-﻿  Conf.cpp
-C:\Users\takum\source\repos\common\common\Conf.cpp(26,42): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-  common.vcxproj -> C:\Users\takum\source\repos\common\x64\Debug\common.exe
