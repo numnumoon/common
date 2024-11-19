@@ -128,11 +128,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Conf.h" />
+    <ClInclude Include="ConfFile.h" />
     <ClInclude Include="FileOperation.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Conf.cpp" />
+    <ClCompile Include="ConfFile.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

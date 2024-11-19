@@ -18,12 +18,12 @@
     <ClInclude Include="FileOperation.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="Conf.h">
+    <ClInclude Include="ConfFile.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Conf.cpp">
+    <ClCompile Include="ConfFile.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
